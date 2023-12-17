@@ -1,19 +1,4 @@
-<style>
-    aside {
-        background: rgba(136, 136, 136, 0.1);
-        padding: 15px;
-        border-radius: 10px;
-        margin-bottom: 1em;
-    }
-
-    aside > ul {
-        margin-bottom: 0;
-    }
-
-    img {
-        /* max-height: 400px; */
-    }
-</style>
+<link rel="stylesheet" href="style.css">
 
 <img width="100" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch Linux icon" style="margin-bottom:15px;left:0;transform:none"/>
 
